@@ -1,0 +1,3 @@
+A DSL for making Embulk Input Plugin for Restful Resources.
+
+This is currently in a chaos state, with a lot of hacks and macros and could be several of orders of magnitude better. Wear eyes protection if you want to read it, you have been warned.
